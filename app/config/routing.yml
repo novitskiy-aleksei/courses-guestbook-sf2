@@ -1,0 +1,9 @@
+courses_guest_book:
+    resource: "@CoursesGuestBookBundle/Resources/config/routing.yml"
+    prefix:   /
+
+example:
+    resource: "@ExampleBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
