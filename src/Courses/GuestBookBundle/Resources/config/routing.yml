@@ -1,0 +1,7 @@
+courses_guest_book_homepage:
+    pattern:  /
+    defaults: { _controller: CoursesGuestBookBundle:Default:index }
+
+courses_guest_book_posts:
+    pattern:  /post
+    defaults: { _controller: CoursesGuestBookBundle:Default:post }

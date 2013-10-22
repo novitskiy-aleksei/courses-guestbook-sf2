@@ -1,0 +1,7 @@
+parameters:
+#    courses_guest_book.example.class: Courses\GuestBookBundle\Example
+
+services:
+#    courses_guest_book.example:
+#        class: %courses_guest_book.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
